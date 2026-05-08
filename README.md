@@ -221,5 +221,4 @@ make clean
 
 ---
 
-## Academic Integrity
-All code written by group members. AI tools used only for understanding concepts, not generating entire functions.
+
